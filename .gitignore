@@ -1,0 +1,7 @@
+.bsp/
+.idea/
+data/*
+build.sbt
+project/*
+target/*
+src/main/.DS_Store
